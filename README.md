@@ -5,7 +5,6 @@ This is GoCD's Notification plugin that updates SCM with build status.
 Supported:
 * GitHub Pull request status
 * Stash Pull Request status
-* Gerrit Change Set status
 
 ## Requirements
 These plugins require GoCD version >= v15.x or above

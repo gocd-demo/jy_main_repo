@@ -7,7 +7,7 @@ Supported:
 * Stash Pull Request status
 
 ## Requirements
-These plugins require GoCD version >= v15.x or above
+These plugins require GoCD version >= v15.x or above.
 
 ## Get Started
 **Installation:**

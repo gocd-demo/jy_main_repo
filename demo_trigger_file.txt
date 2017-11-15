@@ -5,3 +5,4 @@ New line
 This is a new line\n
 This is a new line\n
 This is a new line\n
+This is a new line\n

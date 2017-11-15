@@ -1,6 +1,10 @@
 #!/bin/bash
 
-echo "This is a new line\n" >> demo_trigger_file.txt
+for i in `seq 1 10`;
+do
 
-git commit -am "`fortune`"
-
+	echo "This is a new line $i" >> demo_trigger_file.txt
+	git commit -am "`fortune`"
+	git push
+	sleep 60
+done

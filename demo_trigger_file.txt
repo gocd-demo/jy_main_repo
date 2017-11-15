@@ -1,1 +1,4 @@
 This is a new file used to trigger a pipeline in the demo environment
+
+New line
+

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in `seq 1 10`;
+for i in `seq 1 5`;
 do
 
 	echo "This is a new line $i" >> demo_trigger_file.txt

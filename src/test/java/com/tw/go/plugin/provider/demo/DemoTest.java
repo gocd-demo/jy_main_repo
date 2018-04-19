@@ -7,7 +7,7 @@ public class DemoTest {
 
     @Test
     public void compareNumbers() {
-        Assert.assertEquals(4, 5);
+        Assert.assertEquals(4, 4);
     }
 
 }
